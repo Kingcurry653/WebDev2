@@ -98,7 +98,13 @@ else {
         body {
             font-family: arial, sans-serif;
         }
-
+        td {border-style: inset;
+        
+        
+        }
+        tr {border-style: inset;
+        }
+        
     </style>
 </head>
 
